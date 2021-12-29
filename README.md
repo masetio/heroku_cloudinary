@@ -1,1 +1,1 @@
-# heroku_cloudinary
+glideapps upload to cloudinary
